@@ -1,2 +1,8 @@
 # hitandblow
-Hit and Blow with simple HTML.
+Hit and Blow.
+
+## License
+[MIT License](LICENSE)
+
+## Author
+[stakiran](https://github.com/stakiran)

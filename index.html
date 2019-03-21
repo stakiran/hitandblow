@@ -1,0 +1,27 @@
+<html>
+<head>
+  <title>Hit and Blow</title>
+  <meta charset="UTF-8">
+
+  <script type="text/javascript" src="./lib/jquery-3.3.1.min.js"></script>
+
+  <script type="text/javascript" src="./modules.js"></script>
+  <script type="text/javascript" src="./main.js"></script>
+
+  <link rel="stylesheet" href="./main.css" />
+
+</head>
+
+<body>
+  <p id="p_info">Turn Count: <strong id="p_info_countvalue">0</strong> <em id="p_message"></em></p>
+  <input id="input_your_trial" type="text" maxlength="4">
+  <div id="ta_trialresult_wrapper">
+    <textarea wrap="off" id="ta_trialresult" class="default_font" disabled></textarea>
+  </div>
+  <pre>
+      Enter: Try with your answer.
+        Esc: Clear your input.
+Shift + Esc: New game.
+  </pre>
+</body>
+</html>
