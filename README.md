@@ -1,6 +1,8 @@
 # hitandblow
 Hit and Blow.
 
+Goto: https://stakiran.github.io/hitandblow/
+
 ## License
 [MIT License](LICENSE)
 
